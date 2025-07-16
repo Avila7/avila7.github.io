@@ -15,14 +15,14 @@ Cybersecurity Professional & Front-End Developer with experience in IT security,
 
 ## Professional Experience  
 
-### Tech Company - Phoenix, AZ  
+### Nyrotec - Phoenix, AZ  
 **Front-End Developer** | June 2024 - Present  
 - Implemented Agile workflows that accelerated project delivery by 15%  
 - Developed 10+ responsive websites (HTML/CSS/JS) boosting engagement by 25%  
 - Automated tasks with JavaScript, reducing dev time by 20%  
 - Conducted A/B testing that increased conversion rates by 12%  
 
-### Blue-Collar Company - Phoenix, AZ  
+### Moises Custom Painting - Phoenix, AZ  
 **Residential Painter** | July 2019 - May 2024  
 - Improved profit margins 15% through financial analysis and vendor negotiations  
 - Managed confidential data in 200+ row spreadsheets  
