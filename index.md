@@ -2,8 +2,8 @@
 layout: default
 ---
 
-# [Your Name]  
-Phoenix, Arizona | [Phone Number] | [Email] | [LinkedIn]  
+# Moises Rodrigo Avila   
+Phoenix, Arizona | avilacodes@gmail.com | www.linkedin.com/in/avila-  
 
 Cybersecurity Professional & Front-End Developer with experience in IT security, network administration, and web development. Currently pursuing an Associate's Degree in Cybersecurity with multiple industry certifications. Fluent in English and Spanish.
 
