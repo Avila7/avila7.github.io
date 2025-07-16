@@ -2,122 +2,59 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# [Your Name]  
+Phoenix, Arizona | [Phone Number] | [Email] | [LinkedIn]  
 
-[Link to another page](./another-page.html).
+Cybersecurity Professional & Front-End Developer with experience in IT security, network administration, and web development. Currently pursuing an Associate's Degree in Cybersecurity with multiple industry certifications. Fluent in English and Spanish.
 
-There should be whitespace between paragraphs.
+## Technical Skills  
+**Security:** SIEM, Firewalls, Access Control Lists, Sentinel, Security+ (Expected 2025)  
+**Networking:** CCNA (In Progress), Network Configurations, RHEL, Virtual Networks  
+**Development:** HTML/CSS, JavaScript, Python  
+**Systems:** Active Directory, Virtual Machines, Ticketing Systems, File Permissions  
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Professional Experience  
 
-# Header 1
+### Tech Company - Phoenix, AZ  
+**Front-End Developer** | June 2024 - Present  
+- Implemented Agile workflows that accelerated project delivery by 15%  
+- Developed 10+ responsive websites (HTML/CSS/JS) boosting engagement by 25%  
+- Automated tasks with JavaScript, reducing dev time by 20%  
+- Conducted A/B testing that increased conversion rates by 12%  
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Blue-Collar Company - Phoenix, AZ  
+**Residential Painter** | July 2019 - May 2024  
+- Improved profit margins 15% through financial analysis and vendor negotiations  
+- Managed confidential data in 200+ row spreadsheets  
 
-## Header 2
+## Education & Certifications  
+**Mesa Community College**  
+AAS in Cybersecurity - Cyber Operations (Expected 2026)  
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**Certifications:**  
+- CompTIA Security+ (Expected Sep 2025)  
+- CCNA: Intro to Networks (Expected Jun 2025)  
+- TestOut Security Pro (Mar 2025)  
+- Red Hat Administration I (RH124) (Oct 2024)  
 
-### Header 3
+## Key Projects  
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
+### Security Operations Center (SOC) Lab  
+- Built SIEM system using Microsoft Sentinel  
+- Detected suspicious activities like RDP logins  
+- Generated automated security alerts  
+
+## Leadership  
+**Oasis Christian Center** - Volunteer Lead (2019)  
+- Coordinated Thanksgiving food donations for 15+ households  
+- Achieved 85% satisfaction rate through bilingual (EN/ES) communications  
+
+---
+
+### Technical Proficiencies  
+```javascript
+// Web Development Example
+function optimizeUI(design) {
+  const engagementBoost = implementABTesting(design);
+  return engagementBoost > 25 ? "Success!" : "Iterate";
 }
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
