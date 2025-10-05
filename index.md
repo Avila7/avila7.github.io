@@ -5,7 +5,7 @@ layout: default
 # Moises Rodrigo Avila   
 Phoenix, Arizona | avilacodes@gmail.com | www.linkedin.com/in/avila-  
 
-Cybersecurity Professional & Front-End Developer with experience in IT security, network administration, and web development. Currently pursuing an Associate's Degree in Cybersecurity with multiple industry certifications. Fluent in English and Spanish.
+Cybersecurity Professional & Front-End Developer with experience in IT security, network administration, and web development. Currently pursuing multiple industry certifications. Fluent in English and Spanish.
 
 ## Technical Skills  
 **Security:** SIEM, Firewalls, Access Control Lists, Sentinel, Security+ (Expected 2025)  
